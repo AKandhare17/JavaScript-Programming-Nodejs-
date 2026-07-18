@@ -22,7 +22,6 @@ Open `index.html` in any browser — no build step or dependencies required.
 └── calculator.js     # Calculator logic
 ```
 
-> Note: rename `calcualtor.html` to `index.html` before/while uploading so GitHub Pages (or any static host) picks it up automatically.
 
 ## How It Works
 
